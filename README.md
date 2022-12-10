@@ -7,6 +7,7 @@ My First Repository
 - Squid Game
 - Attack On Titan
 - DAHMER
+- Queen's Gambit
 - Interstellar
 - Mission Impossible
 - Aliens
